@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bikrone demo application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="main_title">Welcome to our fabulous app!</string>
+    <string name="action_settings">Settings</string>
+</resources>
